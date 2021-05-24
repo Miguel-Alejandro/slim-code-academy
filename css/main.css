@@ -1,0 +1,115 @@
+/* backgrounds colors and gradients colors */
+
+
+.bg-white{
+	background: rgba(223, 230, 233,1.0);
+}
+
+
+.bg-black{
+	background-color: rgba(45, 52, 54,1.0);
+}
+
+.gra-purple{
+	background: #ff00cc;
+	background: -webkit-linear-gradient(to right, #333399, #ff00cc);
+	background: linear-gradient(to right, #333399, #ff00cc);
+
+	color: white;
+
+	border-color:#ff00cc;
+
+}
+
+
+
+/* text-gradient */
+
+
+.gra-t-purple{
+  background: -webkit-linear-gradient(#333399, #ff00cc);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+    color: tomato;
+}
+
+
+
+
+
+/* text color */
+
+.text-white{
+	color: rgba(223, 230, 233,1.0);
+}
+
+
+
+
+/* link colors */
+.link-white{
+	text-decoration: none;
+	color: rgba(223, 230, 233,1.0);
+}
+
+
+
+/* hovers */
+
+
+.hover-white:hover{
+	color: white;
+}
+
+
+.link-white:hover{
+	text-decoration: none;
+	color: white;
+}
+
+
+
+/* font sizes */
+
+.f-size-45{
+	font-size: 45px;
+}
+
+
+
+
+
+/* margins */
+
+.mt-20{
+	margin-top: 20%;
+}
+
+
+
+.mt-7{
+	margin-top: 7%;
+}
+
+
+.mt-30{
+	margin-top: 30%;
+}
+
+
+.mt-10{
+	margin-top: 10%;
+}
+
+
+.mb-0{
+	margin-bottom: 0px;
+}
+
+
+/* displays */
+.display-none{
+	display: none;
+}
+
+
